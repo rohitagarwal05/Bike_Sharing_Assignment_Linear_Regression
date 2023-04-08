@@ -38,6 +38,6 @@ Give credit here.
 
 
 ## Contact
-Created by [@rohitagarwal05] 
-Email Id - agarwal.rohit0597@gmail.com 
-Feel free to contact me!
+- Created by [@rohitagarwal05] 
+- Email Id - agarwal.rohit0597@gmail.com 
+- Feel free to contact me!
