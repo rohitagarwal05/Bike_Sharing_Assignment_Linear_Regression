@@ -4,9 +4,10 @@
 
 ## Contents of Repository
 
-1. Dataset Folder - Contains the actual dataset and Readme file which contains the metadata information.
+1. Dataset - day.csv actual dataset used for the assignment.
 2. Python Notebook - Which contains the bike sharing linear regression assignment.
 3. PDF File - Which contains the assignment based and general questions subjective questions answered.
+4. Readme.txt - Metadata of the dataset.
 
 ## General Information
 - This project was built as part of Linear Regression module assignment during the course of AI/ML by IIIT-B and Upgrad.
@@ -18,9 +19,9 @@
 ## Conclusions
 
 Top features which contributed significantly towards demand of shared bikes are :
-- 1. Temp (coefficient value = 0.5804)
-- 2. Weather Situation 3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds) (coefficient value = -0.2768)
-- 3. Season 4 (winter season) (coefficient value = 0.1291)
+- Temp (coefficient value = 0.5804)
+- Weather Situation 3 (Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds) (coefficient value = -0.2768)
+- Season 4 (winter season) (coefficient value = 0.1291)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
