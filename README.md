@@ -33,7 +33,7 @@ Top features which contributed significantly towards demand of shared bikes are 
 
 
 ## Acknowledgements
-Give credit here.
+
 - This project was inspired by all the teachings and assignment as part of AI/ML course by IIITB and Upgrad.
 
 
